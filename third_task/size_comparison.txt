@@ -1,0 +1,3 @@
+json size = 8738 bytes
+msgpack size = 5863 bytes
+diff = 2875 bytes

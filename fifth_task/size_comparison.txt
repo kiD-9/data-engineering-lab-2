@@ -1,0 +1,6 @@
+csv size = 12.282 MiB
+json size = 44.326 MiB
+msgpack size = 40.894 MiB
+pkl size = 27.166 MiB
+
+CSV is the smallest, JSON is the biggest. Their diff is 32.044 MiB

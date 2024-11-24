@@ -1,0 +1,41 @@
+{
+  "maximums": {
+    "height": 190.0,
+    "weight": 140.0,
+    "SBP": 241.0,
+    "DBP": 185.0
+  },
+  "minimums": {
+    "height": 130.0,
+    "weight": 25.0,
+    "SBP": 70.0,
+    "DBP": 36.0
+  },
+  "averages": {
+    "height": 162.2701,
+    "weight": 63.3231,
+    "SBP": 122.4315,
+    "DBP": 76.0604
+  },
+  "sums": {
+    "height": 48681025.0,
+    "weight": 18996915.0,
+    "SBP": 36729445.0,
+    "DBP": 22818107.0
+  },
+  "standard_deviations": {
+    "height": 9.2843,
+    "weight": 12.5336,
+    "SBP": 14.5356,
+    "DBP": 9.8822
+  },
+  "frequencies": {
+    "males": 0.5322,
+    "hear_left_normal": 0.9687,
+    "hear_right_normal": 0.9697,
+    "never_smoked": 0.6062,
+    "used_to_smoke_but_quit": 0.1777,
+    "still_smoke": 0.2161,
+    "drinks_alcohol": 0.499
+  }
+}

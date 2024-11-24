@@ -1,1 +1,1487 @@
-[{"name": "Клюква", "method": "percent+", "param": 0.1}, {"name": "Эскалоп", "method": "add", "param": 27}, {"name": "Куриные голени", "method": "percent-", "param": 0.1}, {"name": "Лук-порей", "method": "percent+", "param": 0.05}, {"name": "Слива", "method": "percent+", "param": 0.08}, {"name": "Каша из дробленного пшена", "method": "percent-", "param": 0.09}, {"name": "Куркума молотая", "method": "percent-", "param": 0.05}, {"name": "Каша из дробленой ржи", "method": "percent-", "param": 0.07}, {"name": "Термосы", "method": "percent-", "param": 0.06}, {"name": "Мацеста", "method": "percent-", "param": 0.09}, {"name": "Российский сыр", "method": "percent-", "param": 0.1}, {"name": "Печень", "method": "percent-", "param": 0.05}, {"name": "Пастила", "method": "add", "param": 31}, {"name": "Хабаровская", "method": "percent-", "param": 0.04}, {"name": "Гречка", "method": "add", "param": 65}, {"name": "Пажитник сушеный", "method": "sub", "param": 51}, {"name": "Red Bull", "method": "add", "param": 42}, {"name": "Крыжовник", "method": "percent-", "param": 0.03}, {"name": "Мыло жидкое", "method": "sub", "param": 18}, {"name": "Туалетная бумага", "method": "add", "param": 17}, {"name": "Кукуруза консервированная", "method": "percent+", "param": 0.03}, {"name": "Редис", "method": "percent-", "param": 0.06}, {"name": "Сок томатный", "method": "percent-", "param": 0.01}, {"name": "Подставки под горячие блюда", "method": "percent-", "param": 0.03}, {"name": "Бадьян", "method": "percent-", "param": 0.06}, {"name": "Гранат", "method": "percent-", "param": 0.1}, {"name": "Тмин молотый", "method": "percent-", "param": 0.03}, {"name": "Зубная щетка", "method": "percent-", "param": 0.01}, {"name": "Морс брусничный", "method": "add", "param": 61}, {"name": "Сок грейпфрутовый", "method": "percent-", "param": 0.06}, {"name": "Хлебопечка", "method": "add", "param": 21}, {"name": "Пастернак", "method": "percent+", "param": 0.1}, {"name": "Огурец", "method": "percent+", "param": 0.04}, {"name": "Масала чай", "method": "sub", "param": 21}, {"name": "Гусь", "method": "add", "param": 1}, {"name": "Смузи мангово-ананасовый", "method": "percent+", "param": 0.08}, {"name": "Кострец", "method": "percent+", "param": 0.09}, {"name": "Пакеты для Всемирного дня книг", "method": "sub", "param": 72}, {"name": "Контейнеры для хранения продуктов", "method": "percent+", "param": 0.03}, {"name": "Брюква", "method": "sub", "param": 19}, {"name": "Бекон", "method": "add", "param": 8}, {"name": "Кавказская", "method": "percent+", "param": 0.02}, {"name": "Азовская", "method": "percent-", "param": 0.1}, {"name": "Пиво безалкогольное", "method": "percent-", "param": 0.1}, {"name": "Горох", "method": "percent-", "param": 0.05}, {"name": "Кофе молотый", "method": "percent-", "param": 0.01}, {"name": "Эндивий", "method": "percent-", "param": 0.02}, {"name": "Спаржа", "method": "percent-", "param": 0.06}, {"name": "Цветная капуста", "method": "add", "param": 74}, {"name": "Пакеты для Дня влюбленных", "method": "percent+", "param": 0.03}, {"name": "Ребрышки", "method": "percent-", "param": 0.1}, {"name": "Вяленое мясо", "method": "sub", "param": 18}, {"name": "Куриные бедра", "method": "percent+", "param": 0.07}, {"name": "Чечевица", "method": "add", "param": 94}, {"name": "Тыква", "method": "sub", "param": 51}, {"name": "Масло сливочное", "method": "add", "param": 24}, {"name": "Пахта", "method": "add", "param": 57}, {"name": "Сальтисон", "method": "sub", "param": 78}, {"name": "Куриные ножки", "method": "add", "param": 73}, {"name": "Пакеты для Всемирного дня здоровья", "method": "percent+", "param": 0.04}, {"name": "Донер-кебаб", "method": "sub", "param": 84}, {"name": "Топинамбур", "method": "sub", "param": 92}, {"name": "Сыворотка молочная", "method": "sub", "param": 3}, {"name": "Молочный шоколад", "method": "percent-", "param": 0.03}, {"name": "Алуштинская", "method": "percent-", "param": 0.06}, {"name": "Выборгская", "method": "percent-", "param": 0.07}, {"name": "Лопатка", "method": "sub", "param": 17}, {"name": "Фольга алюминиевая", "method": "percent-", "param": 0.08}, {"name": "Пакеты для документов", "method": "percent-", "param": 0.09}, {"name": "Пепперони", "method": "percent+", "param": 0.1}, {"name": "Помидор", "method": "percent+", "param": 0.01}, {"name": "Дыня", "method": "sub", "param": 84}, {"name": "Nestea", "method": "percent+", "param": 0.1}, {"name": "Авокадо", "method": "percent+", "param": 0.02}, {"name": "Шейка", "method": "add", "param": 17}, {"name": "Каша из булгура", "method": "percent-", "param": 0.08}, {"name": "Персик", "method": "sub", "param": 11}, {"name": "Шелковица", "method": "percent-", "param": 0.08}, {"name": "Рамбутан", "method": "sub", "param": 100}, {"name": "Пакеты для бассейна", "method": "percent-", "param": 0.02}, {"name": "Пакеты для Всемирного дня окружающей среды", "method": "percent+", "param": 0.02}, {"name": "Серебряный ключ", "method": "percent-", "param": 0.09}, {"name": "Кесадилья с мясом", "method": "percent-", "param": 0.02}, {"name": "Растительное масло кукурузное", "method": "percent+", "param": 0.05}, {"name": "Каша из дробленой кукурузы", "method": "add", "param": 50}, {"name": "Пармезан", "method": "percent-", "param": 0.05}, {"name": "Фанта", "method": "add", "param": 75}, {"name": "Фенхель", "method": "percent-", "param": 0.05}, {"name": "Оленина", "method": "add", "param": 52}, {"name": "Ветчина", "method": "percent+", "param": 0.09}, {"name": "Простокваша", "method": "add", "param": 78}, {"name": "Кастрюли", "method": "add", "param": 38}, {"name": "Ленинградская", "method": "percent-", "param": 0.08}, {"name": "Швабра", "method": "sub", "param": 84}, {"name": "Чоризо", "method": "add", "param": 5}, {"name": "Пакеты для уборки", "method": "percent-", "param": 0.02}, {"name": "Белокуриха", "method": "percent-", "param": 0.02}, {"name": "Тэфф", "method": "percent-", "param": 0.09}, {"name": "Мацони", "method": "sub", "param": 99}, {"name": "Консервный нож", "method": "add", "param": 3}, {"name": "Солонина", "method": "percent+", "param": 0.04}, {"name": "Творог", "method": "percent-", "param": 0.09}, {"name": "Пакеты для мастер-класса", "method": "add", "param": 98}, {"name": "Чай зеленый", "method": "percent-", "param": 0.05}, {"name": "Сыр", "method": "percent-", "param": 0.09}, {"name": "Прошутто", "method": "percent+", "param": 0.08}, {"name": "Соевый напиток", "method": "sub", "param": 59}, {"name": "Пакеты для свадьбы", "method": "percent-", "param": 0.09}, {"name": "Горошек консервированный", "method": "add", "param": 72}, {"name": "Кабачок", "method": "percent-", "param": 0.03}, {"name": "Йогурт питьевой", "method": "sub", "param": 29}, {"name": "Укроп", "method": "percent-", "param": 0.09}, {"name": "Шпинат", "method": "percent+", "param": 0.02}, {"name": "Чеснок", "method": "add", "param": 23}, {"name": "Кровяная колбаса", "method": "add", "param": 58}, {"name": "Хурма", "method": "sub", "param": 75}, {"name": "Голландский сыр", "method": "add", "param": 85}, {"name": "Карамбола", "method": "add", "param": 26}, {"name": "Ванилин", "method": "percent-", "param": 0.09}, {"name": "Каша из пшена", "method": "percent-", "param": 0.03}, {"name": "Кухонные ножи", "method": "add", "param": 66}, {"name": "Варенье", "method": "percent+", "param": 0.01}, {"name": "Шея", "method": "percent+", "param": 0.01}, {"name": "Батат", "method": "sub", "param": 42}, {"name": "Каша из камута", "method": "percent-", "param": 0.04}, {"name": "Тан", "method": "add", "param": 10}, {"name": "Новошахтинская", "method": "add", "param": 11}, {"name": "Каша из сорго", "method": "add", "param": 90}, {"name": "Пшено", "method": "sub", "param": 90}, {"name": "Вилки", "method": "sub", "param": 9}, {"name": "Айран", "method": "add", "param": 40}, {"name": "Подставки под столовые приборы", "method": "percent-", "param": 0.08}, {"name": "Патиссон", "method": "add", "param": 94}, {"name": "Смузи бананово-клубничный", "method": "sub", "param": 85}, {"name": "Томатная паста", "method": "percent-", "param": 0.1}, {"name": "Фейхоа", "method": "sub", "param": 62}, {"name": "Сельдерей", "method": "sub", "param": 30}, {"name": "Моющее средство для стекол", "method": "percent+", "param": 0.07}, {"name": "Балык", "method": "percent+", "param": 0.03}, {"name": "Нарзан", "method": "add", "param": 41}, {"name": "Пакеты для Всемирного дня воды", "method": "percent-", "param": 0.08}, {"name": "Форосская", "method": "percent-", "param": 0.1}, {"name": "Красный перец чили молотый", "method": "percent+", "param": 0.1}, {"name": "Пакеты для игрушек", "method": "sub", "param": 65}, {"name": "Растительное масло рапсовое", "method": "add", "param": 68}, {"name": "Шампунь", "method": "add", "param": 16}, {"name": "Грейпфрут", "method": "sub", "param": 45}, {"name": "Пакеты для ярмарки", "method": "add", "param": 99}, {"name": "Керчь", "method": "sub", "param": 100}, {"name": "Киви", "method": "add", "param": 39}, {"name": "Пакеты для пикников", "method": "percent+", "param": 0.03}, {"name": "Моцарелла", "method": "percent-", "param": 0.05}, {"name": "Ананас", "method": "percent+", "param": 0.05}, {"name": "Новый свет", "method": "percent+", "param": 0.05}, {"name": "Апельсин", "method": "percent-", "param": 0.08}, {"name": "Чеддер", "method": "sub", "param": 32}, {"name": "Рубец", "method": "sub", "param": 39}, {"name": "Источник Троицкий", "method": "percent-", "param": 0.1}, {"name": "Марьинская", "method": "percent-", "param": 0.08}, {"name": "Щелковская", "method": "percent-", "param": 0.04}, {"name": "Латте", "method": "percent+", "param": 0.02}, {"name": "Тарелки глубокие", "method": "sub", "param": 44}, {"name": "Коломенская", "method": "percent+", "param": 0.04}, {"name": "Брынза", "method": "percent+", "param": 0.03}, {"name": "Цукини", "method": "percent+", "param": 0.01}, {"name": "Миксер", "method": "percent+", "param": 0.09}, {"name": "Пакеты для Дня учителя", "method": "sub", "param": 93}, {"name": "Мультиварка", "method": "percent+", "param": 0.06}, {"name": "Молоко", "method": "percent+", "param": 0.03}, {"name": "Евпатория", "method": "add", "param": 12}, {"name": "Фахитас с мясом", "method": "add", "param": 63}, {"name": "Смузи шпинатно-банановый", "method": "percent-", "param": 0.01}, {"name": "Помело", "method": "add", "param": 47}, {"name": "Курт", "method": "sub", "param": 53}, {"name": "Соль", "method": "percent+", "param": 0.03}, {"name": "Пакеты для тренинга", "method": "percent-", "param": 0.07}, {"name": "Ряженка", "method": "sub", "param": 54}, {"name": "Сок апельсиновый", "method": "sub", "param": 36}, {"name": "Сосиски", "method": "sub", "param": 15}, {"name": "Симферопольская", "method": "sub", "param": 93}, {"name": "Sprite Zero", "method": "add", "param": 63}, {"name": "Великолукская", "method": "percent-", "param": 0.03}, {"name": "Тартар", "method": "percent+", "param": 0.03}, {"name": "Подсолнечник семена", "method": "percent-", "param": 0.07}, {"name": "Свалява", "method": "percent+", "param": 0.03}, {"name": "Портулак", "method": "add", "param": 7}, {"name": "Клубника", "method": "percent-", "param": 0.01}, {"name": "Косулятина", "method": "percent+", "param": 0.02}, {"name": "Пакеты для обуви", "method": "sub", "param": 74}, {"name": "Лен семена", "method": "add", "param": 88}, {"name": "Магаданская", "method": "add", "param": 23}, {"name": "Пастрома", "method": "percent+", "param": 0.06}, {"name": "Забайкальская", "method": "add", "param": 95}, {"name": "Топлёное молоко", "method": "percent-", "param": 0.09}, {"name": "Белый перец молотый", "method": "sub", "param": 98}, {"name": "Турнепс", "method": "sub", "param": 67}, {"name": "Манго", "method": "percent-", "param": 0.08}, {"name": "Легкое", "method": "sub", "param": 8}, {"name": "Петрушка корневая", "method": "percent+", "param": 0.1}, {"name": "Катык", "method": "add", "param": 83}, {"name": "Растительное масло кунжутное", "method": "add", "param": 42}, {"name": "Кровянка", "method": "percent+", "param": 0.08}, {"name": "Пакеты для Дня Победы", "method": "sub", "param": 54}, {"name": "Сахар", "method": "percent+", "param": 0.1}, {"name": "Смородина", "method": "percent+", "param": 0.06}, {"name": "Партенит", "method": "percent+", "param": 0.08}, {"name": "Уксус", "method": "percent-", "param": 0.1}, {"name": "Горячий шоколад", "method": "percent-", "param": 0.02}, {"name": "Пакеты для Дня знаний", "method": "add", "param": 100}, {"name": "Папайя", "method": "percent-", "param": 0.03}, {"name": "Пакеты для растений", "method": "percent-", "param": 0.07}, {"name": "Шубат", "method": "add", "param": 37}, {"name": "Пакеты для подарков", "method": "percent+", "param": 0.04}, {"name": "Ласси", "method": "percent-", "param": 0.02}, {"name": "Репа", "method": "sub", "param": 8}, {"name": "Камут", "method": "percent+", "param": 0.02}, {"name": "Пицца с мясом", "method": "sub", "param": 88}, {"name": "Тостер", "method": "percent-", "param": 0.02}, {"name": "Каша из дробленной пшеничной крупы", "method": "add", "param": 80}, {"name": "Сковороды", "method": "percent-", "param": 0.1}, {"name": "Тыквенные семечки", "method": "add", "param": 89}, {"name": "Кружки", "method": "percent+", "param": 0.01}, {"name": "Подушки", "method": "add", "param": 73}, {"name": "Банан", "method": "sub", "param": 43}, {"name": "Лимон", "method": "percent+", "param": 0.03}, {"name": "Домашние колбасы", "method": "sub", "param": 75}, {"name": "Картофель", "method": "add", "param": 51}, {"name": "Анапская", "method": "sub", "param": 78}, {"name": "Vittel", "method": "percent-", "param": 0.04}, {"name": "Блюдца", "method": "add", "param": 49}, {"name": "Ямс", "method": "percent-", "param": 0.08}, {"name": "Златоустовская", "method": "sub", "param": 66}, {"name": "Сметана", "method": "percent+", "param": 0.01}, {"name": "Мандарин", "method": "percent+", "param": 0.05}, {"name": "Пакеты для инструментов", "method": "percent+", "param": 0.08}, {"name": "Пакеты для пляжа", "method": "add", "param": 84}, {"name": "Айва", "method": "add", "param": 29}, {"name": "Каша из дробленной гречки", "method": "add", "param": 13}, {"name": "Манты", "method": "add", "param": 45}, {"name": "Пакеты для микроволновки", "method": "sub", "param": 16}, {"name": "Мытищинская", "method": "sub", "param": 69}, {"name": "Формы для выпечки", "method": "add", "param": 60}, {"name": "Дезодорант", "method": "percent+", "param": 0.1}, {"name": "Пакеты для Всемирного дня музыки", "method": "add", "param": 83}, {"name": "Одинцовская", "method": "percent-", "param": 0.04}, {"name": "Сухое молоко", "method": "percent-", "param": 0.03}, {"name": "Баклажан", "method": "percent-", "param": 0.03}, {"name": "Кондиционер для белья", "method": "add", "param": 81}, {"name": "Ромштекс", "method": "sub", "param": 12}, {"name": "Нектарин", "method": "percent+", "param": 0.09}, {"name": "Брокколи", "method": "sub", "param": 90}, {"name": "Каша из дробленой пшеницы", "method": "sub", "param": 92}, {"name": "Полотенца для рук", "method": "percent+", "param": 0.09}, {"name": "Чебуреки", "method": "percent+", "param": 0.02}, {"name": "Томская", "method": "percent+", "param": 0.01}, {"name": "Сорго", "method": "percent+", "param": 0.01}, {"name": "Сырой арахис", "method": "sub", "param": 40}, {"name": "Пакеты для библиотеки", "method": "sub", "param": 83}, {"name": "Камамбер", "method": "sub", "param": 99}, {"name": "Розмарин сушеный", "method": "sub", "param": 28}, {"name": "Чай черный", "method": "sub", "param": 92}, {"name": "Перец болгарский", "method": "percent-", "param": 0.06}, {"name": "Малина", "method": "add", "param": 51}, {"name": "Bonaqua", "method": "add", "param": 75}, {"name": "Какао-порошок", "method": "percent+", "param": 0.04}, {"name": "Гвоздика молотая", "method": "percent-", "param": 0.03}, {"name": "Шаверма", "method": "sub", "param": 39}, {"name": "Утка", "method": "sub", "param": 79}, {"name": "Фарш индюшиный", "method": "percent-", "param": 0.01}, {"name": "Тимьян сушеный", "method": "sub", "param": 26}, {"name": "Пакеты для детских вещей", "method": "percent+", "param": 0.02}, {"name": "Ярославская", "method": "add", "param": 75}, {"name": "Озеро Медвежье", "method": "sub", "param": 72}, {"name": "Капуста белокочанная", "method": "percent+", "param": 0.1}, {"name": "Буковинская", "method": "sub", "param": 99}, {"name": "Груша", "method": "percent+", "param": 0.05}, {"name": "Каймак", "method": "sub", "param": 85}, {"name": "Пакеты для благотворительного мероприятия", "method": "percent-", "param": 0.01}, {"name": "Мягкие игрушки", "method": "percent+", "param": 0.02}, {"name": "Геленджикская", "method": "sub", "param": 28}, {"name": "Яблоко", "method": "percent-", "param": 0.08}, {"name": "Ростовская", "method": "percent+", "param": 0.06}, {"name": "Пунш фруктовый", "method": "sub", "param": 64}, {"name": "Кетчуп", "method": "add", "param": 79}, {"name": "Сангрия безалкогольная", "method": "percent-", "param": 0.02}, {"name": "Мортаделла", "method": "sub", "param": 76}, {"name": "Щавель", "method": "add", "param": 99}, {"name": "Тюменская", "method": "sub", "param": 65}, {"name": "Моющее средство для посуды", "method": "sub", "param": 33}, {"name": "Бамия", "method": "add", "param": 71}, {"name": "Каша из полбы", "method": "percent-", "param": 0.03}, {"name": "Самса", "method": "percent+", "param": 0.06}, {"name": "Сливки", "method": "sub", "param": 52}, {"name": "Освежитель воздуха", "method": "percent-", "param": 0.05}, {"name": "Язык", "method": "percent-", "param": 0.08}, {"name": "Пакеты для музея", "method": "add", "param": 18}, {"name": "Засоленное мясо", "method": "percent+", "param": 0.07}]
+[
+  {
+    "name": "Клюква",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Эскалоп",
+    "method": "add",
+    "param": 27
+  },
+  {
+    "name": "Куриные голени",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Лук-порей",
+    "method": "percent+",
+    "param": 0.05
+  },
+  {
+    "name": "Слива",
+    "method": "percent+",
+    "param": 0.08
+  },
+  {
+    "name": "Каша из дробленного пшена",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Куркума молотая",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Каша из дробленой ржи",
+    "method": "percent-",
+    "param": 0.07
+  },
+  {
+    "name": "Термосы",
+    "method": "percent-",
+    "param": 0.06
+  },
+  {
+    "name": "Мацеста",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Российский сыр",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Печень",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Пастила",
+    "method": "add",
+    "param": 31
+  },
+  {
+    "name": "Хабаровская",
+    "method": "percent-",
+    "param": 0.04
+  },
+  {
+    "name": "Гречка",
+    "method": "add",
+    "param": 65
+  },
+  {
+    "name": "Пажитник сушеный",
+    "method": "sub",
+    "param": 51
+  },
+  {
+    "name": "Red Bull",
+    "method": "add",
+    "param": 42
+  },
+  {
+    "name": "Крыжовник",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Мыло жидкое",
+    "method": "sub",
+    "param": 18
+  },
+  {
+    "name": "Туалетная бумага",
+    "method": "add",
+    "param": 17
+  },
+  {
+    "name": "Кукуруза консервированная",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Редис",
+    "method": "percent-",
+    "param": 0.06
+  },
+  {
+    "name": "Сок томатный",
+    "method": "percent-",
+    "param": 0.01
+  },
+  {
+    "name": "Подставки под горячие блюда",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Бадьян",
+    "method": "percent-",
+    "param": 0.06
+  },
+  {
+    "name": "Гранат",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Тмин молотый",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Зубная щетка",
+    "method": "percent-",
+    "param": 0.01
+  },
+  {
+    "name": "Морс брусничный",
+    "method": "add",
+    "param": 61
+  },
+  {
+    "name": "Сок грейпфрутовый",
+    "method": "percent-",
+    "param": 0.06
+  },
+  {
+    "name": "Хлебопечка",
+    "method": "add",
+    "param": 21
+  },
+  {
+    "name": "Пастернак",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Огурец",
+    "method": "percent+",
+    "param": 0.04
+  },
+  {
+    "name": "Масала чай",
+    "method": "sub",
+    "param": 21
+  },
+  {
+    "name": "Гусь",
+    "method": "add",
+    "param": 1
+  },
+  {
+    "name": "Смузи мангово-ананасовый",
+    "method": "percent+",
+    "param": 0.08
+  },
+  {
+    "name": "Кострец",
+    "method": "percent+",
+    "param": 0.09
+  },
+  {
+    "name": "Пакеты для Всемирного дня книг",
+    "method": "sub",
+    "param": 72
+  },
+  {
+    "name": "Контейнеры для хранения продуктов",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Брюква",
+    "method": "sub",
+    "param": 19
+  },
+  {
+    "name": "Бекон",
+    "method": "add",
+    "param": 8
+  },
+  {
+    "name": "Кавказская",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Азовская",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Пиво безалкогольное",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Горох",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Кофе молотый",
+    "method": "percent-",
+    "param": 0.01
+  },
+  {
+    "name": "Эндивий",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Спаржа",
+    "method": "percent-",
+    "param": 0.06
+  },
+  {
+    "name": "Цветная капуста",
+    "method": "add",
+    "param": 74
+  },
+  {
+    "name": "Пакеты для Дня влюбленных",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Ребрышки",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Вяленое мясо",
+    "method": "sub",
+    "param": 18
+  },
+  {
+    "name": "Куриные бедра",
+    "method": "percent+",
+    "param": 0.07
+  },
+  {
+    "name": "Чечевица",
+    "method": "add",
+    "param": 94
+  },
+  {
+    "name": "Тыква",
+    "method": "sub",
+    "param": 51
+  },
+  {
+    "name": "Масло сливочное",
+    "method": "add",
+    "param": 24
+  },
+  {
+    "name": "Пахта",
+    "method": "add",
+    "param": 57
+  },
+  {
+    "name": "Сальтисон",
+    "method": "sub",
+    "param": 78
+  },
+  {
+    "name": "Куриные ножки",
+    "method": "add",
+    "param": 73
+  },
+  {
+    "name": "Пакеты для Всемирного дня здоровья",
+    "method": "percent+",
+    "param": 0.04
+  },
+  {
+    "name": "Донер-кебаб",
+    "method": "sub",
+    "param": 84
+  },
+  {
+    "name": "Топинамбур",
+    "method": "sub",
+    "param": 92
+  },
+  {
+    "name": "Сыворотка молочная",
+    "method": "sub",
+    "param": 3
+  },
+  {
+    "name": "Молочный шоколад",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Алуштинская",
+    "method": "percent-",
+    "param": 0.06
+  },
+  {
+    "name": "Выборгская",
+    "method": "percent-",
+    "param": 0.07
+  },
+  {
+    "name": "Лопатка",
+    "method": "sub",
+    "param": 17
+  },
+  {
+    "name": "Фольга алюминиевая",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Пакеты для документов",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Пепперони",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Помидор",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Дыня",
+    "method": "sub",
+    "param": 84
+  },
+  {
+    "name": "Nestea",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Авокадо",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Шейка",
+    "method": "add",
+    "param": 17
+  },
+  {
+    "name": "Каша из булгура",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Персик",
+    "method": "sub",
+    "param": 11
+  },
+  {
+    "name": "Шелковица",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Рамбутан",
+    "method": "sub",
+    "param": 100
+  },
+  {
+    "name": "Пакеты для бассейна",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Пакеты для Всемирного дня окружающей среды",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Серебряный ключ",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Кесадилья с мясом",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Растительное масло кукурузное",
+    "method": "percent+",
+    "param": 0.05
+  },
+  {
+    "name": "Каша из дробленой кукурузы",
+    "method": "add",
+    "param": 50
+  },
+  {
+    "name": "Пармезан",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Фанта",
+    "method": "add",
+    "param": 75
+  },
+  {
+    "name": "Фенхель",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Оленина",
+    "method": "add",
+    "param": 52
+  },
+  {
+    "name": "Ветчина",
+    "method": "percent+",
+    "param": 0.09
+  },
+  {
+    "name": "Простокваша",
+    "method": "add",
+    "param": 78
+  },
+  {
+    "name": "Кастрюли",
+    "method": "add",
+    "param": 38
+  },
+  {
+    "name": "Ленинградская",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Швабра",
+    "method": "sub",
+    "param": 84
+  },
+  {
+    "name": "Чоризо",
+    "method": "add",
+    "param": 5
+  },
+  {
+    "name": "Пакеты для уборки",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Белокуриха",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Тэфф",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Мацони",
+    "method": "sub",
+    "param": 99
+  },
+  {
+    "name": "Консервный нож",
+    "method": "add",
+    "param": 3
+  },
+  {
+    "name": "Солонина",
+    "method": "percent+",
+    "param": 0.04
+  },
+  {
+    "name": "Творог",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Пакеты для мастер-класса",
+    "method": "add",
+    "param": 98
+  },
+  {
+    "name": "Чай зеленый",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Сыр",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Прошутто",
+    "method": "percent+",
+    "param": 0.08
+  },
+  {
+    "name": "Соевый напиток",
+    "method": "sub",
+    "param": 59
+  },
+  {
+    "name": "Пакеты для свадьбы",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Горошек консервированный",
+    "method": "add",
+    "param": 72
+  },
+  {
+    "name": "Кабачок",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Йогурт питьевой",
+    "method": "sub",
+    "param": 29
+  },
+  {
+    "name": "Укроп",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Шпинат",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Чеснок",
+    "method": "add",
+    "param": 23
+  },
+  {
+    "name": "Кровяная колбаса",
+    "method": "add",
+    "param": 58
+  },
+  {
+    "name": "Хурма",
+    "method": "sub",
+    "param": 75
+  },
+  {
+    "name": "Голландский сыр",
+    "method": "add",
+    "param": 85
+  },
+  {
+    "name": "Карамбола",
+    "method": "add",
+    "param": 26
+  },
+  {
+    "name": "Ванилин",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Каша из пшена",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Кухонные ножи",
+    "method": "add",
+    "param": 66
+  },
+  {
+    "name": "Варенье",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Шея",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Батат",
+    "method": "sub",
+    "param": 42
+  },
+  {
+    "name": "Каша из камута",
+    "method": "percent-",
+    "param": 0.04
+  },
+  {
+    "name": "Тан",
+    "method": "add",
+    "param": 10
+  },
+  {
+    "name": "Новошахтинская",
+    "method": "add",
+    "param": 11
+  },
+  {
+    "name": "Каша из сорго",
+    "method": "add",
+    "param": 90
+  },
+  {
+    "name": "Пшено",
+    "method": "sub",
+    "param": 90
+  },
+  {
+    "name": "Вилки",
+    "method": "sub",
+    "param": 9
+  },
+  {
+    "name": "Айран",
+    "method": "add",
+    "param": 40
+  },
+  {
+    "name": "Подставки под столовые приборы",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Патиссон",
+    "method": "add",
+    "param": 94
+  },
+  {
+    "name": "Смузи бананово-клубничный",
+    "method": "sub",
+    "param": 85
+  },
+  {
+    "name": "Томатная паста",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Фейхоа",
+    "method": "sub",
+    "param": 62
+  },
+  {
+    "name": "Сельдерей",
+    "method": "sub",
+    "param": 30
+  },
+  {
+    "name": "Моющее средство для стекол",
+    "method": "percent+",
+    "param": 0.07
+  },
+  {
+    "name": "Балык",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Нарзан",
+    "method": "add",
+    "param": 41
+  },
+  {
+    "name": "Пакеты для Всемирного дня воды",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Форосская",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Красный перец чили молотый",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Пакеты для игрушек",
+    "method": "sub",
+    "param": 65
+  },
+  {
+    "name": "Растительное масло рапсовое",
+    "method": "add",
+    "param": 68
+  },
+  {
+    "name": "Шампунь",
+    "method": "add",
+    "param": 16
+  },
+  {
+    "name": "Грейпфрут",
+    "method": "sub",
+    "param": 45
+  },
+  {
+    "name": "Пакеты для ярмарки",
+    "method": "add",
+    "param": 99
+  },
+  {
+    "name": "Керчь",
+    "method": "sub",
+    "param": 100
+  },
+  {
+    "name": "Киви",
+    "method": "add",
+    "param": 39
+  },
+  {
+    "name": "Пакеты для пикников",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Моцарелла",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Ананас",
+    "method": "percent+",
+    "param": 0.05
+  },
+  {
+    "name": "Новый свет",
+    "method": "percent+",
+    "param": 0.05
+  },
+  {
+    "name": "Апельсин",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Чеддер",
+    "method": "sub",
+    "param": 32
+  },
+  {
+    "name": "Рубец",
+    "method": "sub",
+    "param": 39
+  },
+  {
+    "name": "Источник Троицкий",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Марьинская",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Щелковская",
+    "method": "percent-",
+    "param": 0.04
+  },
+  {
+    "name": "Латте",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Тарелки глубокие",
+    "method": "sub",
+    "param": 44
+  },
+  {
+    "name": "Коломенская",
+    "method": "percent+",
+    "param": 0.04
+  },
+  {
+    "name": "Брынза",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Цукини",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Миксер",
+    "method": "percent+",
+    "param": 0.09
+  },
+  {
+    "name": "Пакеты для Дня учителя",
+    "method": "sub",
+    "param": 93
+  },
+  {
+    "name": "Мультиварка",
+    "method": "percent+",
+    "param": 0.06
+  },
+  {
+    "name": "Молоко",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Евпатория",
+    "method": "add",
+    "param": 12
+  },
+  {
+    "name": "Фахитас с мясом",
+    "method": "add",
+    "param": 63
+  },
+  {
+    "name": "Смузи шпинатно-банановый",
+    "method": "percent-",
+    "param": 0.01
+  },
+  {
+    "name": "Помело",
+    "method": "add",
+    "param": 47
+  },
+  {
+    "name": "Курт",
+    "method": "sub",
+    "param": 53
+  },
+  {
+    "name": "Соль",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Пакеты для тренинга",
+    "method": "percent-",
+    "param": 0.07
+  },
+  {
+    "name": "Ряженка",
+    "method": "sub",
+    "param": 54
+  },
+  {
+    "name": "Сок апельсиновый",
+    "method": "sub",
+    "param": 36
+  },
+  {
+    "name": "Сосиски",
+    "method": "sub",
+    "param": 15
+  },
+  {
+    "name": "Симферопольская",
+    "method": "sub",
+    "param": 93
+  },
+  {
+    "name": "Sprite Zero",
+    "method": "add",
+    "param": 63
+  },
+  {
+    "name": "Великолукская",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Тартар",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Подсолнечник семена",
+    "method": "percent-",
+    "param": 0.07
+  },
+  {
+    "name": "Свалява",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Портулак",
+    "method": "add",
+    "param": 7
+  },
+  {
+    "name": "Клубника",
+    "method": "percent-",
+    "param": 0.01
+  },
+  {
+    "name": "Косулятина",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Пакеты для обуви",
+    "method": "sub",
+    "param": 74
+  },
+  {
+    "name": "Лен семена",
+    "method": "add",
+    "param": 88
+  },
+  {
+    "name": "Магаданская",
+    "method": "add",
+    "param": 23
+  },
+  {
+    "name": "Пастрома",
+    "method": "percent+",
+    "param": 0.06
+  },
+  {
+    "name": "Забайкальская",
+    "method": "add",
+    "param": 95
+  },
+  {
+    "name": "Топлёное молоко",
+    "method": "percent-",
+    "param": 0.09
+  },
+  {
+    "name": "Белый перец молотый",
+    "method": "sub",
+    "param": 98
+  },
+  {
+    "name": "Турнепс",
+    "method": "sub",
+    "param": 67
+  },
+  {
+    "name": "Манго",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Легкое",
+    "method": "sub",
+    "param": 8
+  },
+  {
+    "name": "Петрушка корневая",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Катык",
+    "method": "add",
+    "param": 83
+  },
+  {
+    "name": "Растительное масло кунжутное",
+    "method": "add",
+    "param": 42
+  },
+  {
+    "name": "Кровянка",
+    "method": "percent+",
+    "param": 0.08
+  },
+  {
+    "name": "Пакеты для Дня Победы",
+    "method": "sub",
+    "param": 54
+  },
+  {
+    "name": "Сахар",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Смородина",
+    "method": "percent+",
+    "param": 0.06
+  },
+  {
+    "name": "Партенит",
+    "method": "percent+",
+    "param": 0.08
+  },
+  {
+    "name": "Уксус",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Горячий шоколад",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Пакеты для Дня знаний",
+    "method": "add",
+    "param": 100
+  },
+  {
+    "name": "Папайя",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Пакеты для растений",
+    "method": "percent-",
+    "param": 0.07
+  },
+  {
+    "name": "Шубат",
+    "method": "add",
+    "param": 37
+  },
+  {
+    "name": "Пакеты для подарков",
+    "method": "percent+",
+    "param": 0.04
+  },
+  {
+    "name": "Ласси",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Репа",
+    "method": "sub",
+    "param": 8
+  },
+  {
+    "name": "Камут",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Пицца с мясом",
+    "method": "sub",
+    "param": 88
+  },
+  {
+    "name": "Тостер",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Каша из дробленной пшеничной крупы",
+    "method": "add",
+    "param": 80
+  },
+  {
+    "name": "Сковороды",
+    "method": "percent-",
+    "param": 0.1
+  },
+  {
+    "name": "Тыквенные семечки",
+    "method": "add",
+    "param": 89
+  },
+  {
+    "name": "Кружки",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Подушки",
+    "method": "add",
+    "param": 73
+  },
+  {
+    "name": "Банан",
+    "method": "sub",
+    "param": 43
+  },
+  {
+    "name": "Лимон",
+    "method": "percent+",
+    "param": 0.03
+  },
+  {
+    "name": "Домашние колбасы",
+    "method": "sub",
+    "param": 75
+  },
+  {
+    "name": "Картофель",
+    "method": "add",
+    "param": 51
+  },
+  {
+    "name": "Анапская",
+    "method": "sub",
+    "param": 78
+  },
+  {
+    "name": "Vittel",
+    "method": "percent-",
+    "param": 0.04
+  },
+  {
+    "name": "Блюдца",
+    "method": "add",
+    "param": 49
+  },
+  {
+    "name": "Ямс",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Златоустовская",
+    "method": "sub",
+    "param": 66
+  },
+  {
+    "name": "Сметана",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Мандарин",
+    "method": "percent+",
+    "param": 0.05
+  },
+  {
+    "name": "Пакеты для инструментов",
+    "method": "percent+",
+    "param": 0.08
+  },
+  {
+    "name": "Пакеты для пляжа",
+    "method": "add",
+    "param": 84
+  },
+  {
+    "name": "Айва",
+    "method": "add",
+    "param": 29
+  },
+  {
+    "name": "Каша из дробленной гречки",
+    "method": "add",
+    "param": 13
+  },
+  {
+    "name": "Манты",
+    "method": "add",
+    "param": 45
+  },
+  {
+    "name": "Пакеты для микроволновки",
+    "method": "sub",
+    "param": 16
+  },
+  {
+    "name": "Мытищинская",
+    "method": "sub",
+    "param": 69
+  },
+  {
+    "name": "Формы для выпечки",
+    "method": "add",
+    "param": 60
+  },
+  {
+    "name": "Дезодорант",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Пакеты для Всемирного дня музыки",
+    "method": "add",
+    "param": 83
+  },
+  {
+    "name": "Одинцовская",
+    "method": "percent-",
+    "param": 0.04
+  },
+  {
+    "name": "Сухое молоко",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Баклажан",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Кондиционер для белья",
+    "method": "add",
+    "param": 81
+  },
+  {
+    "name": "Ромштекс",
+    "method": "sub",
+    "param": 12
+  },
+  {
+    "name": "Нектарин",
+    "method": "percent+",
+    "param": 0.09
+  },
+  {
+    "name": "Брокколи",
+    "method": "sub",
+    "param": 90
+  },
+  {
+    "name": "Каша из дробленой пшеницы",
+    "method": "sub",
+    "param": 92
+  },
+  {
+    "name": "Полотенца для рук",
+    "method": "percent+",
+    "param": 0.09
+  },
+  {
+    "name": "Чебуреки",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Томская",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Сорго",
+    "method": "percent+",
+    "param": 0.01
+  },
+  {
+    "name": "Сырой арахис",
+    "method": "sub",
+    "param": 40
+  },
+  {
+    "name": "Пакеты для библиотеки",
+    "method": "sub",
+    "param": 83
+  },
+  {
+    "name": "Камамбер",
+    "method": "sub",
+    "param": 99
+  },
+  {
+    "name": "Розмарин сушеный",
+    "method": "sub",
+    "param": 28
+  },
+  {
+    "name": "Чай черный",
+    "method": "sub",
+    "param": 92
+  },
+  {
+    "name": "Перец болгарский",
+    "method": "percent-",
+    "param": 0.06
+  },
+  {
+    "name": "Малина",
+    "method": "add",
+    "param": 51
+  },
+  {
+    "name": "Bonaqua",
+    "method": "add",
+    "param": 75
+  },
+  {
+    "name": "Какао-порошок",
+    "method": "percent+",
+    "param": 0.04
+  },
+  {
+    "name": "Гвоздика молотая",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Шаверма",
+    "method": "sub",
+    "param": 39
+  },
+  {
+    "name": "Утка",
+    "method": "sub",
+    "param": 79
+  },
+  {
+    "name": "Фарш индюшиный",
+    "method": "percent-",
+    "param": 0.01
+  },
+  {
+    "name": "Тимьян сушеный",
+    "method": "sub",
+    "param": 26
+  },
+  {
+    "name": "Пакеты для детских вещей",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Ярославская",
+    "method": "add",
+    "param": 75
+  },
+  {
+    "name": "Озеро Медвежье",
+    "method": "sub",
+    "param": 72
+  },
+  {
+    "name": "Капуста белокочанная",
+    "method": "percent+",
+    "param": 0.1
+  },
+  {
+    "name": "Буковинская",
+    "method": "sub",
+    "param": 99
+  },
+  {
+    "name": "Груша",
+    "method": "percent+",
+    "param": 0.05
+  },
+  {
+    "name": "Каймак",
+    "method": "sub",
+    "param": 85
+  },
+  {
+    "name": "Пакеты для благотворительного мероприятия",
+    "method": "percent-",
+    "param": 0.01
+  },
+  {
+    "name": "Мягкие игрушки",
+    "method": "percent+",
+    "param": 0.02
+  },
+  {
+    "name": "Геленджикская",
+    "method": "sub",
+    "param": 28
+  },
+  {
+    "name": "Яблоко",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Ростовская",
+    "method": "percent+",
+    "param": 0.06
+  },
+  {
+    "name": "Пунш фруктовый",
+    "method": "sub",
+    "param": 64
+  },
+  {
+    "name": "Кетчуп",
+    "method": "add",
+    "param": 79
+  },
+  {
+    "name": "Сангрия безалкогольная",
+    "method": "percent-",
+    "param": 0.02
+  },
+  {
+    "name": "Мортаделла",
+    "method": "sub",
+    "param": 76
+  },
+  {
+    "name": "Щавель",
+    "method": "add",
+    "param": 99
+  },
+  {
+    "name": "Тюменская",
+    "method": "sub",
+    "param": 65
+  },
+  {
+    "name": "Моющее средство для посуды",
+    "method": "sub",
+    "param": 33
+  },
+  {
+    "name": "Бамия",
+    "method": "add",
+    "param": 71
+  },
+  {
+    "name": "Каша из полбы",
+    "method": "percent-",
+    "param": 0.03
+  },
+  {
+    "name": "Самса",
+    "method": "percent+",
+    "param": 0.06
+  },
+  {
+    "name": "Сливки",
+    "method": "sub",
+    "param": 52
+  },
+  {
+    "name": "Освежитель воздуха",
+    "method": "percent-",
+    "param": 0.05
+  },
+  {
+    "name": "Язык",
+    "method": "percent-",
+    "param": 0.08
+  },
+  {
+    "name": "Пакеты для музея",
+    "method": "add",
+    "param": 18
+  },
+  {
+    "name": "Засоленное мясо",
+    "method": "percent+",
+    "param": 0.07
+  }
+]

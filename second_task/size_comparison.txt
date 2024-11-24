@@ -1,0 +1,3 @@
+npz size = 7884 Bytes
+npz compressed size = 1797 bytes
+diff = 6087 bytes
